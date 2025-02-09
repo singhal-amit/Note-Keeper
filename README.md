@@ -4,14 +4,14 @@
 <hr>
 
 <div align="center">
-<img src="https://custom-icon-badges.demolab.com/github/stars/amit712singhal/Note-Keeper?label=Stars&labelColor=302d41&color=add8e6&logoColor=white&logo=star&style=for-the-badge"  />
-<img src="https://custom-icon-badges.demolab.com/github/issues/amit712singhal/Note-Keeper?label=Issues&labelColor=302d41&color=90ee90&logoColor=white&logo=issue&style=for-the-badge"  />
-<img src="https://custom-icon-badges.demolab.com/github/issues-pr/amit712singhal/Note-Keeper?&label=Pull%20requests&labelColor=302d41&color=ffb6c1&logoColor=white&logo=git-pull-request&style=for-the-badge"  />
-<img src="https://custom-icon-badges.demolab.com/github/forks/amit712singhal/Note-Keeper?&label=forks&labelColor=302d41&color=ffa07a&logoColor=white&logo=fork&style=for-the-badge"  />
-<img src="https://custom-icon-badges.demolab.com/github/contributors/amit712singhal/Note-Keeper?label=Contributors&labelColor=302d41&color=e6e6fa&logoColor=white&logo=people&style=for-the-badge"/>
-<img src="https://custom-icon-badges.demolab.com/github/license/amit712singhal/Note-Keeper?label=LICENSE&labelColor=302d41&color=f0e68c&logoColor=white&logo=giphy&style=for-the-badge"/>
-<img src="https://custom-icon-badges.demolab.com/github/last-commit/amit712singhal/Note-Keeper?label=last%20commit&labelColor=302d41&color=ffefd5&logoColor=white&logo=git&style=for-the-badge"/>
-<a href="https://amit712singhal.github.io/Note-Keeper/" target="_blank">
+<img src="https://custom-icon-badges.demolab.com/github/stars/singhal-amit/Note-Keeper?label=Stars&labelColor=302d41&color=add8e6&logoColor=white&logo=star&style=for-the-badge"  />
+<img src="https://custom-icon-badges.demolab.com/github/issues/singhal-amit/Note-Keeper?label=Issues&labelColor=302d41&color=90ee90&logoColor=white&logo=issue&style=for-the-badge"  />
+<img src="https://custom-icon-badges.demolab.com/github/issues-pr/singhal-amit/Note-Keeper?&label=Pull%20requests&labelColor=302d41&color=ffb6c1&logoColor=white&logo=git-pull-request&style=for-the-badge"  />
+<img src="https://custom-icon-badges.demolab.com/github/forks/singhal-amit/Note-Keeper?&label=forks&labelColor=302d41&color=ffa07a&logoColor=white&logo=fork&style=for-the-badge"  />
+<img src="https://custom-icon-badges.demolab.com/github/contributors/singhal-amit/Note-Keeper?label=Contributors&labelColor=302d41&color=e6e6fa&logoColor=white&logo=people&style=for-the-badge"/>
+<img src="https://custom-icon-badges.demolab.com/github/license/singhal-amit/Note-Keeper?label=LICENSE&labelColor=302d41&color=f0e68c&logoColor=white&logo=giphy&style=for-the-badge"/>
+<img src="https://custom-icon-badges.demolab.com/github/last-commit/singhal-amit/Note-Keeper?label=last%20commit&labelColor=302d41&color=ffefd5&logoColor=white&logo=git&style=for-the-badge"/>
+<a href="https://singhal-amit.github.io/Note-Keeper/" target="_blank">
     <img src="https://img.shields.io/badge/%20View-Demo-ffefd5?&labelColor=302d41&color=BBDDE5&style=for-the-badge&logoColor=white&logo=expedia">
 </a>
 </div>
@@ -21,7 +21,8 @@ NoteKeeper is a simple web app that lets you create and delete notebooks to orga
 
 ## 📸 Live Preview
 <p align="center">
- <img height="400px" src="./public/images/preview/preview-Desktop.gif" alt="notekeeperdemo">
+  <img align="center" src="./src/images/preview-Desktop (dark).png#gh-dark-mode-only"/>
+  <img align="center" src="./src/images/preview-Desktop (light).png#gh-light-mode-only"/>
 </p>
 
 <details>
@@ -44,7 +45,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/amit712singhal/Note-Keeper.git
+   git clone https://github.com/singhal-amit/Note-Keeper.git
    ```
 
 2. **Set Up the Project**
@@ -100,7 +101,7 @@ Contributions are welcome! Here's how you can help:
 <table>
     <tr>
         <td>
-            <a href="https://github.com/amit712singhal">
+            <a href="https://github.com/singhal-amit">
                 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
                     height="48" width="48" alt="GitHub" />
             </a>
